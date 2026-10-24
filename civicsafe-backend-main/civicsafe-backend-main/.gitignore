@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+
+.env
+*.service-account.json
+*credentials*.json
+
+*.xlsx
+*.xlsx.tmp
+
+server.out.log
+server.err.log
